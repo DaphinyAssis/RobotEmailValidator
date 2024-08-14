@@ -35,7 +35,7 @@ Execute o script principal:
 
 ``python main.py``
 
-O script irá filtrar os e-mails de ontem e hoje do remetente no-reply@lcontrol.com.br, extrair as informações relevantes e listar os resultados agrupados por cliente no terminal.
+O script irá filtrar os e-mails de hoje do remetente no-reply@lcontrol.com.br, extrair as informações relevantes e listar os resultados agrupados por cliente no terminal.
 
 ### Contribuição
 Se você deseja contribuir para este projeto, por favor, abra um issue ou envie um pull request com suas melhorias.
